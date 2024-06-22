@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\WorkSpace"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "typing-speed-test-game-main",
+		"liveServer.settings.port": 5501
+	}
+}
